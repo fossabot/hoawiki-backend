@@ -9,6 +9,8 @@
 </h1>
 
 ## 关键特性
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fsaltball%2Fhoawiki-backend.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fsaltball%2Fhoawiki-backend?ref=badge_shield)
+
 
 - Spring-boot框架, Spring-boot-security
 - Mybatis-plus 对接数据库操作
@@ -123,3 +125,6 @@ MYSQL_PASSWORD=spring-debug
 ## 或许还有
 
 - [地平线HOA论坛](https://horizonask.top/) - 目前运行的基于Flarum的论坛
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fsaltball%2Fhoawiki-backend.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fsaltball%2Fhoawiki-backend?ref=badge_large)
